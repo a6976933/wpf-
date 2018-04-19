@@ -1,0 +1,19 @@
+C:\Users\a6976\source\repos\client text fresh\client text fresh\bin\Debug\client text fresh.exe.config
+C:\Users\a6976\source\repos\client text fresh\client text fresh\bin\Debug\client text fresh.exe
+C:\Users\a6976\source\repos\client text fresh\client text fresh\bin\Debug\client text fresh.pdb
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.csprojResolveAssemblyReference.cache
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\MainWindow.g.cs
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\App.g.cs
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh_MarkupCompile.cache
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh_MarkupCompile.lref
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\MainWindow.baml
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.g.resources
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client_text_fresh.Properties.Resources.resources
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.csproj.GenerateResource.Cache
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.csproj.CoreCompileInputs.cache
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.exe
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\client text fresh.pdb
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\loading_windows.g.cs
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\loading_windows.baml
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\text_windows.g.cs
+C:\Users\a6976\source\repos\client text fresh\client text fresh\obj\Debug\text_windows.baml

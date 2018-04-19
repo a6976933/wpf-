@@ -1,0 +1,29 @@
+﻿<Window x:Class="client_text_fresh.text_windows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:client_text_fresh" Closing="Close_windows"
+        mc:Ignorable="d"
+        Title="text_windows" Height="1000" Width="900" >
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Name="doc_box" PreviewKeyDown="en" ScrollViewer.CanContentScroll="True"  Height="450" VerticalAlignment="Top" Width="757" Margin="61,47,0,0" VerticalScrollBarVisibility="Auto" >
+            <FlowDocument>
+                <Paragraph LineHeight="1">
+                    
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ComboBox HorizontalAlignment="Left" Name="file_list_combobox" VerticalAlignment="Top" Width="120" Margin="168,565,0,0" />
+        <Button Content="刷新可用檔案目錄" Name="Fresh_file_list"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="113" Margin="339,567,0,0" Click="Fresh_file_list_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Content="讀取檔案" Name="Send_fileread_button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="192,606,0,0" Click="Send_fileread_button_Click"/>
+        <Button Content="把內容存到伺服器" Name="send_filetext" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="534,592,0,0" Click="send_filetext_Click"/>
+        <TextBox HorizontalAlignment="Left" Name="Create_newfile" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="168,639,0,0"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="client_text_fresh.loading_windows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:client_text_fresh"
+        mc:Ignorable="d"
+        Title="loading_windows" Height="300" Width="300" >
+    <Grid>
+        <Button Content="確認" Name="Ip_button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="104,132,0,0" Click="Ip_button_Click"/>
+        <TextBox HorizontalAlignment="Left" Name="ip_address" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="83,93,0,0"/>
+        <Label Content="請輸入伺服器的ip位址" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="83,49,0,0"/>
+
+
+
+    </Grid>
+</Window>
